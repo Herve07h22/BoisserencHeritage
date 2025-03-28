@@ -122,7 +122,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="/images/team/pierre_boisserenc.svg" 
+                  src="/images/team/pierre_boisserenc.jpg" 
                   alt="Pierre Boisserenc" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -139,7 +139,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="/images/team/marc_durand.svg" 
+                  src="/images/team/marc_durand.jpg" 
                   alt="Marc Durand" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -156,7 +156,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="/images/team/sophie_leroux.svg" 
+                  src="/images/team/sophie_leroux.jpg" 
                   alt="Sophie Leroux" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -173,7 +173,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="/images/team/lucas_martin.svg" 
+                  src="/images/team/lucas_martin.jpg" 
                   alt="Lucas Martin" 
                   className="w-full h-full object-cover object-center"
                 />
