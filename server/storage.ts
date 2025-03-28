@@ -193,7 +193,7 @@ export class MemStorage implements IStorage {
         content_fr: "Des conseils d'entretien pour votre fourneau ancien...",
         content_en: "Maintenance tips for your antique stove...",
         category: "conseils",
-        image: "https://www.boisserenc.com/images/projects/creation-cuisson-bois-5321-WAS.jpg"
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-4748-ANGElus.jpg"
       },
       {
         title_fr: "Restauration exceptionnelle : Le fourneau du Château de Versailles",
@@ -250,7 +250,7 @@ export class MemStorage implements IStorage {
         description_en: "Stéphanois stove, circa 1905",
         category: "restoration",
         year: "1905",
-        image: "https://www.boisserenc.com/images/projects/creation-cuisson-bois-5321-WAS.jpg",
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-3786-UNGaro.jpg",
         featured: 4
       },
       {
@@ -270,7 +270,7 @@ export class MemStorage implements IStorage {
         description_en: "Kitchen stove, circa 1880",
         category: "kitchen",
         year: "1880",
-        image: "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-9832-TrD.jpg",
+        image: "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-4867FAYard.jpg",
         featured: 0
       }
     ].forEach(project => {
