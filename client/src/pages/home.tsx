@@ -70,13 +70,12 @@ const Home = () => {
               >
                 {i18n.language === 'fr' ? 'Découvrir nos réalisations' : 'Discover our creations'}
               </Button>
-              <Button 
-                variant="outline" 
-                className="px-6 py-3 border border-white text-white hover:bg-white/10 transition-colors duration-300"
+              <button 
+                className="rounded-md px-6 py-3 bg-white text-black font-medium hover:bg-gray-100 transition-colors duration-300"
                 onClick={() => setLocation("/contact")}
               >
                 {i18n.language === 'fr' ? 'Nous contacter' : 'Contact us'}
-              </Button>
+              </button>
             </div>
           </div>
         </div>
