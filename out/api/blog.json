@@ -1,0 +1,41 @@
+[
+  {
+    "title_fr": "L'histoire fascinante des fourneaux stéphanois",
+    "title_en": "The fascinating history of Stéphanois stoves",
+    "slug": "histoire-fourneaux-stephanois",
+    "excerpt_fr": "Découvrez l'histoire riche et passionnante des fourneaux stéphanois qui ont révolutionné les cuisines françaises au XIXe siècle.",
+    "excerpt_en": "Discover the rich and fascinating history of Stéphanois stoves that revolutionized French kitchens in the 19th century.",
+    "content_fr": "L'histoire complète des fourneaux stéphanois...",
+    "content_en": "The complete history of Stéphanois stoves...",
+    "category": "histoire",
+    "image": "https://www.boisserenc.com/images/projects/creation-cuisson-9831-JAMin.jpg",
+    "id": 1,
+    "createdAt": "2025-03-28T18:28:26.936Z"
+  },
+  {
+    "title_fr": "5 conseils pour entretenir votre fourneau ancien",
+    "title_en": "5 tips for maintaining your antique stove",
+    "slug": "conseils-entretien-fourneau-ancien",
+    "excerpt_fr": "Découvrez nos meilleures astuces pour prolonger la durée de vie de votre fourneau ancien et maintenir ses performances optimales.",
+    "excerpt_en": "Discover our best tips to extend the life of your antique stove and maintain its optimal performance.",
+    "content_fr": "Des conseils d'entretien pour votre fourneau ancien...",
+    "content_en": "Maintenance tips for your antique stove...",
+    "category": "conseils",
+    "image": "https://www.boisserenc.com/images/projects/creation-cuisson-4748-ANGElus.jpg",
+    "id": 2,
+    "createdAt": "2025-03-28T18:28:26.936Z"
+  },
+  {
+    "title_fr": "Restauration exceptionnelle : Le fourneau du Château de Versailles",
+    "title_en": "Exceptional restoration: The stove of the Palace of Versailles",
+    "slug": "restauration-fourneau-versailles",
+    "excerpt_fr": "Plongez dans les coulisses de notre dernier projet de restauration pour les cuisines historiques du Château de Versailles.",
+    "excerpt_en": "Go behind the scenes of our latest restoration project for the historic kitchens of the Palace of Versailles.",
+    "content_fr": "La restauration du fourneau du Château de Versailles...",
+    "content_en": "The restoration of the Palace of Versailles' stove...",
+    "category": "projets",
+    "image": "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-2725-PASSlaigue.jpg",
+    "id": 3,
+    "createdAt": "2025-03-28T18:28:26.936Z"
+  }
+]

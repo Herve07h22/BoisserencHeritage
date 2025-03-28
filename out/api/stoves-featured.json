@@ -1,0 +1,46 @@
+[
+  {
+    "name_fr": "Le Grand Palais",
+    "name_en": "The Grand Palais",
+    "description_fr": "Fourneau stéphanois, circa 1890",
+    "description_en": "Stéphanois stove, circa 1890",
+    "category": "restoration",
+    "year": "1890",
+    "image": "https://www.boisserenc.com/images/projects/creation-cuisson-SUDAN-RIAL.jpg",
+    "featured": 1,
+    "id": 1
+  },
+  {
+    "name_fr": "Château Lafitte",
+    "name_en": "Château Lafitte",
+    "description_fr": "Création sur-mesure, 2019",
+    "description_en": "Custom creation, 2019",
+    "category": "custom",
+    "year": "2019",
+    "image": "https://www.boisserenc.com/images/projects/creation-cuisson-9831-JAMin.jpg",
+    "featured": 2,
+    "id": 2
+  },
+  {
+    "name_fr": "Villa Médicis",
+    "name_en": "Villa Medici",
+    "description_fr": "Cuisinière, circa 1920",
+    "description_en": "Kitchen stove, circa 1920",
+    "category": "kitchen",
+    "year": "1920",
+    "image": "https://www.boisserenc.com/images/projects/creation-modeles-mixtes-1314-HELMs.jpg",
+    "featured": 3,
+    "id": 3
+  },
+  {
+    "name_fr": "Hôtel de Paris",
+    "name_en": "Hotel de Paris",
+    "description_fr": "Fourneau stéphanois, circa 1905",
+    "description_en": "Stéphanois stove, circa 1905",
+    "category": "restoration",
+    "year": "1905",
+    "image": "https://www.boisserenc.com/images/projects/creation-cuisson-3786-UNGaro.jpg",
+    "featured": 4,
+    "id": 4
+  }
+]

@@ -8,7 +8,7 @@ mkdir -p out
 
 # Step 1: Build the client-side application
 echo "📦 Building client-side assets..."
-NODE_ENV=production npx vite build --outDir=out
+NODE_ENV=production npx vite build --outDir=../out
 
 if [ $? -ne 0 ]; then
   echo "❌ Build failed. Aborting export."

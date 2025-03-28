@@ -43,10 +43,10 @@ async function exportAllData() {
   console.log('🚀 Starting data export process...');
   
   // Export all the data
-  await exportData('blog', storage.getBlogPosts);
-  await exportData('stoves', storage.getStoveProjects);
-  await exportData('stoves-featured', storage.getFeaturedStoveProjects);
-  await exportData('testimonials', storage.getTestimonials);
+  await exportData('blog', () => storage.getBlogPosts());
+  await exportData('stoves',() =>  storage.getStoveProjects());
+  await exportData('stoves-featured', () => storage.getFeaturedStoveProjects());
+  await exportData('testimonials', () => storage.getTestimonials());
   
   console.log('📦 Data export completed!');
 }

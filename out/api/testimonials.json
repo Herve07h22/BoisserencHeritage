@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Michel F.",
+    "position_fr": "Propriétaire, Château de Loire",
+    "position_en": "Owner, Loire Castle",
+    "content_fr": "L'équipe de Boisserenc a restauré le fourneau stéphanois de notre château avec un respect extraordinaire pour son histoire et ses détails d'origine. Un travail d'orfèvre.",
+    "content_en": "The Boisserenc team restored our château's Stéphanois stove with extraordinary respect for its history and original details. A masterpiece of craftsmanship.",
+    "rating": 5,
+    "id": 1
+  },
+  {
+    "name": "Sophie D.",
+    "position_fr": "Chef, Restaurant étoilé",
+    "position_en": "Chef, Starred Restaurant",
+    "content_fr": "Notre fourneau sur-mesure est devenu la pièce maîtresse de notre cuisine. Le mariage entre l'esthétique traditionnelle et les fonctionnalités modernes est parfaitement réussi.",
+    "content_en": "Our custom stove has become the centerpiece of our kitchen. The marriage between traditional aesthetics and modern functionality is perfectly executed.",
+    "rating": 5,
+    "id": 2
+  },
+  {
+    "name": "Jean-Pierre L.",
+    "position_fr": "Collectionneur, Paris",
+    "position_en": "Collector, Paris",
+    "content_fr": "L'expertise et les conseils prodigués par Boisserenc ont été déterminants dans notre choix d'acquisition d'un fourneau ancien. Leur service d'accompagnement est inestimable.",
+    "content_en": "The expertise and advice provided by Boisserenc were decisive in our choice to acquire an antique stove. Their support service is invaluable.",
+    "rating": 5,
+    "id": 3
+  }
+]
