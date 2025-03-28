@@ -71,7 +71,7 @@ const Home = () => {
                 {i18n.language === 'fr' ? 'Découvrir nos réalisations' : 'Discover our creations'}
               </Button>
               <Button 
-                className="px-6 py-3 bg-white text-black hover:bg-gray-100 transition-colors duration-300"
+                className="px-6 py-3 bg-white text-[#7D2027] hover:bg-[#F8F5F1] transition-colors duration-300"
                 onClick={() => setLocation("/contact")}
               >
                 {i18n.language === 'fr' ? 'Nous contacter' : 'Contact us'}
@@ -372,19 +372,13 @@ const Home = () => {
               : 'Whether you want to restore an antique stove or create a custom piece, our team is at your disposal.'}
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
-            <button 
-              className="rounded-md px-8 py-3 bg-white text-[#7D2027] hover:bg-[#F8F5F1] transition-colors duration-300 font-medium"
+            <Button 
+              className="px-8 py-3 bg-white text-[#7D2027] hover:bg-[#F8F5F1] transition-colors duration-300"
               onClick={() => setLocation("/contact")}
             >
               {i18n.language === 'fr' ? 'Nous contacter' : 'Contact us'}
-            </button>
-            <Button 
-              variant="outline" 
-              className="px-8 py-3 border border-white text-white hover:bg-white/10 transition-colors duration-300"
-              onClick={() => setLocation("/process")}
-            >
-              {i18n.language === 'fr' ? 'Notre processus' : 'Our process'}
             </Button>
+
           </div>
         </div>
       </section>
