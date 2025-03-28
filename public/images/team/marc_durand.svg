@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#E8E2DC"/>
+  
+  <!-- Stylized figure silhouette -->
+  <path d="M300 190C335.34 190 364 161.34 364 126C364 90.66 335.34 62 300 62C264.66 62 236 90.66 236 126C236 161.34 264.66 190 300 190Z" fill="#7D2027"/>
+  <path d="M300 190C335.34 190 364 161.34 364 126C364 90.66 335.34 62 300 62C264.66 62 236 90.66 236 126C236 161.34 264.66 190 300 190Z" fill="#7D2027"/>
+  <path d="M416 538V443.67C416 411.42 394.31 383.46 363.02 375.61C342.22 370.3 318.02 366 300 366C280.7 366 259.6 370.3 238.8 375.61C207.51 383.64 184 411.42 184 443.67V538H416Z" fill="#7D2027"/>
+  
+  <!-- Metal tools craftsman elements -->
+  <rect x="256" y="240" width="88" height="10" rx="5" fill="#333333"/>
+  <rect x="235" y="260" width="130" height="6" rx="3" fill="#333333"/>
+  <rect x="250" y="276" width="100" height="8" rx="4" fill="#333333"/>
+  <rect x="270" y="294" width="60" height="12" rx="6" fill="#333333"/>
+  <rect x="255" y="316" width="90" height="4" rx="2" fill="#333333"/>
+  <rect x="265" y="330" width="70" height="9" rx="4.5" fill="#333333"/>
+  
+  <!-- Craftsman text -->
+  <rect x="170" y="420" width="260" height="40" rx="4" fill="#7D2027" opacity="0.9"/>
+  <text x="300" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Marc Durand - Artisan Métallier</text>
+</svg>

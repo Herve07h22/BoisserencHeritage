@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#E8E2DC"/>
+  
+  <!-- Stylized figure silhouette -->
+  <path d="M300 190C335.34 190 364 161.34 364 126C364 90.66 335.34 62 300 62C264.66 62 236 90.66 236 126C236 161.34 264.66 190 300 190Z" fill="#7D2027"/>
+  <path d="M390 538V440C390 408.81 376 381.64 350 371.61C330 362 315 366 300 366C285 366 270 362 250 371.61C224 381.64 210 408.81 210 440V538H390Z" fill="#7D2027"/>
+  
+  <!-- Engineer elements - diagrams, blueprints -->
+  <rect x="220" y="240" width="160" height="120" rx="4" fill="#E5E5E5" opacity="0.8"/>
+  
+  <!-- Blueprint grid lines -->
+  <line x1="220" y1="260" x2="380" y2="260" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="220" y1="280" x2="380" y2="280" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="220" y1="300" x2="380" y2="300" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="220" y1="320" x2="380" y2="320" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="220" y1="340" x2="380" y2="340" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  
+  <line x1="240" y1="240" x2="240" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="260" y1="240" x2="260" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="280" y1="240" x2="280" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="300" y1="240" x2="300" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="320" y1="240" x2="320" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="340" y1="240" x2="340" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  <line x1="360" y1="240" x2="360" y2="360" stroke="#333333" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Stove technical drawing -->
+  <rect x="250" y="270" width="100" height="70" rx="2" stroke="#333333" stroke-width="2"/>
+  <rect x="270" y="290" width="60" height="30" rx="1" stroke="#333333" stroke-width="2"/>
+  <line x1="300" y1="250" x2="300" y2="350" stroke="#7D2027" stroke-width="2"/>
+  <circle cx="300" cy="310" r="15" stroke="#7D2027" stroke-width="2" fill="none"/>
+  
+  <!-- Heat indicator -->
+  <path d="M320 280C325 275 330 285 335 280C340 275 345 285 350 280" stroke="#7D2027" stroke-width="1.5"/>
+  <path d="M320 290C325 285 330 295 335 290C340 285 345 295 350 290" stroke="#7D2027" stroke-width="1.5"/>
+  <path d="M320 300C325 295 330 305 335 300C340 295 345 305 350 300" stroke="#7D2027" stroke-width="1.5"/>
+  
+  <!-- Craftsman text -->
+  <rect x="170" y="420" width="260" height="40" rx="4" fill="#7D2027" opacity="0.9"/>
+  <text x="300" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Lucas Martin - Ingénieur Thermique</text>
+</svg>

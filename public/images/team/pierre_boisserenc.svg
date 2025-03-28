@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#E8E2DC"/>
+  
+  <!-- Stylized figure silhouette -->
+  <path d="M300 190C335.34 190 364 161.34 364 126C364 90.66 335.34 62 300 62C264.66 62 236 90.66 236 126C236 161.34 264.66 190 300 190Z" fill="#7D2027"/>
+  <path d="M400 538V443.67C400 411.42 380 383.46 355 375.61C335 370.3 320 366 300 366C280 366 265 370.3 245 375.61C220 383.64 200 411.42 200 443.67V538H400Z" fill="#7D2027"/>
+  
+  <!-- Director/Master craftsman elements -->
+  <rect x="260" y="240" width="80" height="120" rx="3" fill="#B87333" opacity="0.2"/>
+  
+  <!-- Stove outline -->
+  <rect x="270" y="250" width="60" height="100" rx="2" stroke="#333333" stroke-width="3" fill="none"/>
+  <rect x="280" y="270" width="40" height="60" rx="1" stroke="#333333" stroke-width="2" fill="none"/>
+  <rect x="290" y="290" width="20" height="20" stroke="#333333" stroke-width="2" fill="none"/>
+  
+  <!-- Craftsman tools -->
+  <line x1="240" y1="300" x2="260" y2="300" stroke="#333333" stroke-width="3"/>
+  <line x1="250" y1="290" x2="250" y2="310" stroke="#333333" stroke-width="3"/>
+  
+  <path d="M350 300C355 295 360 305 365 300C370 295 375 305 380 300" stroke="#7D2027" stroke-width="2"/>
+  <path d="M350 310C355 305 360 315 365 310C370 305 375 315 380 310" stroke="#7D2027" stroke-width="2"/>
+  <path d="M350 320C355 315 360 325 365 320C370 315 375 325 380 320" stroke="#7D2027" stroke-width="2"/>
+  
+  <!-- Director badge -->
+  <circle cx="340" cy="240" r="15" fill="#B87333"/>
+  <text x="340" y="244" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">DIR</text>
+  
+  <!-- Craftsman text -->
+  <rect x="170" y="420" width="260" height="40" rx="4" fill="#7D2027" opacity="0.9"/>
+  <text x="300" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Pierre Boisserenc - Maître Artisan</text>
+</svg>
