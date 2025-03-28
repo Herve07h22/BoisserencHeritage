@@ -39,7 +39,7 @@ const About = () => {
             
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1513135467880-7b05626dba68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                src="https://www.boisserenc.com/images/projects/atelier-artisan-fourneau-art-01.jpg" 
                 alt="L'équipe de l'atelier Boisserenc" 
                 className="w-full h-auto rounded shadow-lg"
               />
@@ -122,7 +122,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                  src="https://www.boisserenc.com/images/projects/atelier-artisan-fourneau-art-01.jpg" 
                   alt="Pierre Boisserenc" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -139,7 +139,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                  src="https://www.boisserenc.com/images/projects/creation-cuisson-bois-5321-WAS.jpg" 
                   alt="Marc Durand" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -156,7 +156,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80" 
+                  src="https://www.boisserenc.com/images/creation-cuisson-bois.jpg" 
                   alt="Sophie Leroux" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -173,7 +173,7 @@ const About = () => {
             <div className="bg-white rounded overflow-hidden shadow-md text-center">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80" 
+                  src="https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-9832-TrD.jpg" 
                   alt="Lucas Martin" 
                   className="w-full h-full object-cover object-center"
                 />
@@ -196,7 +196,7 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1503596476-1c12a8ba09a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                src="https://www.boisserenc.com/images/projects/atelier-boisserenc-stove.jpg" 
                 alt="L'atelier Boisserenc" 
                 className="w-full h-auto rounded shadow-lg"
               />

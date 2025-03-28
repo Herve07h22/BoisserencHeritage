@@ -46,7 +46,7 @@ const Home = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=90')",
+            backgroundImage: "url('https://www.boisserenc.com/images/jasmin-accueil.jpg')",
             filter: "brightness(0.65)"
           }}
         ></div>
@@ -124,24 +124,24 @@ const Home = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img 
-                  src="https://images.unsplash.com/photo-1596189181426-7f63a1737f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" 
+                  src="https://www.boisserenc.com/images/projects/creation-cuisson-9831-JAMin.jpg" 
                   alt="Détail d'un fourneau stéphanois" 
                   className="w-full h-auto rounded shadow-lg"
                 />
                 <img 
-                  src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" 
+                  src="https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-2725-PASSlaigue.jpg" 
                   alt="Fourneau stéphanois" 
                   className="w-full h-auto rounded shadow-lg"
                 />
               </div>
               <div className="space-y-4 pt-8">
                 <img 
-                  src="https://images.unsplash.com/photo-1572097150304-5c73f7b279a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" 
+                  src="https://www.boisserenc.com/images/projects/creation-cuisson-SUDAN-RIAL.jpg" 
                   alt="Restauration en cours" 
                   className="w-full h-auto rounded shadow-lg"
                 />
                 <img 
-                  src="https://images.unsplash.com/photo-1513135467880-7b05626dba68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                  src="https://www.boisserenc.com/images/projects/creation-modeles-mixtes-1314-HELMs.jpg" 
                   alt="L'équipe de l'atelier" 
                   className="w-full h-auto rounded shadow-lg"
                 />

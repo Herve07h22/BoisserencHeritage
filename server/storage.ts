@@ -182,7 +182,7 @@ export class MemStorage implements IStorage {
         content_fr: "L'histoire complète des fourneaux stéphanois...",
         content_en: "The complete history of Stéphanois stoves...",
         category: "histoire",
-        image: "https://images.unsplash.com/photo-1587389871474-6140435d22a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-9831-JAMin.jpg"
       },
       {
         title_fr: "5 conseils pour entretenir votre fourneau ancien",
@@ -193,7 +193,7 @@ export class MemStorage implements IStorage {
         content_fr: "Des conseils d'entretien pour votre fourneau ancien...",
         content_en: "Maintenance tips for your antique stove...",
         category: "conseils",
-        image: "https://images.unsplash.com/photo-1590794056486-b2d7424cbec6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-bois-5321-WAS.jpg"
       },
       {
         title_fr: "Restauration exceptionnelle : Le fourneau du Château de Versailles",
@@ -204,7 +204,7 @@ export class MemStorage implements IStorage {
         content_fr: "La restauration du fourneau du Château de Versailles...",
         content_en: "The restoration of the Palace of Versailles' stove...",
         category: "projets",
-        image: "https://images.unsplash.com/photo-1556910096-6f5e72db6803?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        image: "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-2725-PASSlaigue.jpg"
       }
     ].forEach(post => {
       this.createBlogPost(post);
@@ -220,7 +220,7 @@ export class MemStorage implements IStorage {
         description_en: "Stéphanois stove, circa 1890",
         category: "restoration",
         year: "1890",
-        image: "https://images.unsplash.com/photo-1572097150304-5c73f7b279a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-SUDAN-RIAL.jpg",
         featured: 1
       },
       {
@@ -230,7 +230,7 @@ export class MemStorage implements IStorage {
         description_en: "Custom creation, 2019",
         category: "custom",
         year: "2019",
-        image: "https://images.unsplash.com/photo-1556910633-5099dc3971e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-9831-JAMin.jpg",
         featured: 2
       },
       {
@@ -240,7 +240,7 @@ export class MemStorage implements IStorage {
         description_en: "Kitchen stove, circa 1920",
         category: "kitchen",
         year: "1920",
-        image: "https://images.unsplash.com/photo-1544427920-c49ccfb85579?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+        image: "https://www.boisserenc.com/images/projects/creation-modeles-mixtes-1314-HELMs.jpg",
         featured: 3
       },
       {
@@ -250,7 +250,7 @@ export class MemStorage implements IStorage {
         description_en: "Stéphanois stove, circa 1905",
         category: "restoration",
         year: "1905",
-        image: "https://images.unsplash.com/photo-1603642017816-e54998158612?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+        image: "https://www.boisserenc.com/images/projects/creation-cuisson-bois-5321-WAS.jpg",
         featured: 4
       },
       {
@@ -260,7 +260,7 @@ export class MemStorage implements IStorage {
         description_en: "Custom creation, 2021",
         category: "custom",
         year: "2021",
-        image: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+        image: "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-2725-PASSlaigue.jpg",
         featured: 0
       },
       {
@@ -270,7 +270,7 @@ export class MemStorage implements IStorage {
         description_en: "Kitchen stove, circa 1880",
         category: "kitchen",
         year: "1880",
-        image: "https://images.unsplash.com/photo-1604709177225-055f99402ea3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        image: "https://www.boisserenc.com/images/projects/fourneaux-cuisson-bois-9832-TrD.jpg",
         featured: 0
       }
     ].forEach(project => {
