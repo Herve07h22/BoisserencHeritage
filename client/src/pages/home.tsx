@@ -381,7 +381,7 @@ const Home = () => {
             </Button>
             <Button 
               variant="outline" 
-              className="px-8 py-3 border border-white hover:bg-white/10 transition-colors duration-300"
+              className="px-8 py-3 border border-white text-white hover:bg-white/10 transition-colors duration-300"
               onClick={() => setLocation("/process")}
             >
               {i18n.language === 'fr' ? 'Notre processus' : 'Our process'}
